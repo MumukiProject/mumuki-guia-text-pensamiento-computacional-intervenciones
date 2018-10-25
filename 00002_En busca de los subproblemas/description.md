@@ -1,6 +1,6 @@
 Es momento de dar otro salto creativo que llevará a nuestra formación a otra etapa. Acá les dejamos otro gif inspirador:
 
-<img src="https://drive.google.com/open?id=1UM9cJdDrkGyLXk16b4uBvQYXyr7SoNKq" alt="GIF MARIO BROS" width="auto" height="auto">
+<img src="https://lh6.googleusercontent.com/nP2cgkw86gLqUq_uV0-x84EimRYOWx_7X2ivbnU4H3I5auxSal_Jnn0UOCWe5blgieI2gh5yhPG4I-DJFVOk=w1366-h657" alt="GIF MARIO BROS" width="auto" height="auto">
 
 La identificación de los subproblemas es un proceso clave para la utilización del Pensamiento Computacional como estrategia didáctica. Nos permitirá identificar tareas y conjuntos de tareas que, de ser resueltas, nos lleven a la solución. Crear o identificar qué actividades o secuencias didácticas nos permitirán realizar este proceso es un elemento clave que tendrá efectos sobre todas las etapas posteriores. Preguntas que te podrían ser útiles son:
 
