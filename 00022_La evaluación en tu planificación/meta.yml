@@ -1,9 +1,9 @@
 ---
 tags: []
 layout: input_bottom
-editor: code
-type: reading
+editor: free_form
+type: problem
 extra_visible: false
-manual_evaluation: false
+manual_evaluation: true
 choices: []
 name: La evaluación en tu planificación
