@@ -1,0 +1,1 @@
+¡Avanzaste muchísimo con tu planificación! Quedan por delante las últimas reflexiones para cerrar la experiencia formativa. Vamos a iniciar la sección de **prototipado y evaluación**.
