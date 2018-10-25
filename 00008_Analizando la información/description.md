@@ -21,6 +21,6 @@ Para que tengas en cuenta:
 * ¿Resulta útil clarificar cuál es el mínimo de información que se debe haber generado al terminar esta etapa?
 * ¿Qué actividad/es propondrás a l@s estudiantes para trabajar en estas abstracciones?
 * ¿Por qué elegiste esa actividad y cuáles son tus resultados esperados?
-* ¿Necesitás algún recurso especial (Internet, Celulares, etc.)?
+* ¿Necesitás algún recurso especial?
 
 > Respondé esas preguntas en los siguientes campos.

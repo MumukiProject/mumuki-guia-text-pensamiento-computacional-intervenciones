@@ -8,6 +8,6 @@ La identificación de los subproblemas es un proceso clave para la utilización 
 * ¿Se te ocurre alguna otra que no hayamos visto aquí? ¿Cuál/cuáles?
 * ¿Qué actividad vas a hacer con l@s estudiantes para la identificación de los subproblemas?
 * ¿Por qué elegiste esa actividad y cuáles son tus resultados esperados?
-* ¿Necesitás algún recurso especial (Internet, Celulares, etc.)?
+* ¿Necesitás algún recurso especial?
 
 > Respondé esas preguntas en los siguientes campos.
