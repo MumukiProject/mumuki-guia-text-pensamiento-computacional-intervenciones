@@ -1,3 +1,5 @@
+Repasemos un poco lo visto:
+
 ✓ Primeros Pasos
 
 ✓ Preparando el terreno

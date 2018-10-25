@@ -4,3 +4,4 @@ Como vimos anteriormente, a través de la resolución de cada uno de los subprob
 * ¿El proceso de búsqueda de patrones y abstracciones será individual o prefierís que l@s estudiantes trabajen en grupos?
 * ¿Todos l@s estudiantes/grupos trabajarán en torno a todos los subproblemas definidos o se dividirán los subproblemas entre distintos grupos? 
 
+> Respondé esas preguntas en los siguientes campos.
