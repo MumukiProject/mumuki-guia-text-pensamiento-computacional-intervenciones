@@ -1,6 +1,6 @@
 Nuevamente es necesario dar un nuevo salto en donde pongamos en juego los procesos realizados hasta acá.
 
-<img src="https://lh4.googleusercontent.com/RmmgPGnGW0g-hC0VYbjYByDdydr5SpO6zzHeKKxf69v3UTZfWtPBu270fvdgO6riq6zHn5Uy0WdWGhchCYon=w1366-h657" alt="REY LEON GIF" width="auto" height="auto">
+<img src="https://user-images.githubusercontent.com/1039278/47478167-01b3e800-d7ff-11e8-9baf-e4bfe300a08c.gif" alt="REY LEON GIF" width="auto" height="auto">
 
 En este momento tendremos que identificar los aspectos relevantes para la resolución de los subproblemas. En este tramo, proponemos formalizar, integrar y, ¿por qué no?, sumar algunas ideas que no nos hayan aparecido entre tanta información disponible.
  
