@@ -38,7 +38,7 @@ Aquí podríamos pensarlo desde estos operadores lógicos:
 * Y (AND): Si llueve Y hace frío, entonces no voy.
 
 
-Los **bucles**  indican que una tarea se puede sostener o repetir varias veces _hasta que_ llegue a un punto que queremos lograr. Ya sea porque la repetición de un mismo proceso alcanzará el resultado, por ejemplo al [coser un botón](https://drive.google.com/drive/folders/1i3qb8WLR1aH5G0A6dJNGbO6P3FnwJfqu?ogsrc=32) pasamos la aguja por los agujeros varias veces hasta que se encuentre firme, o porque necesitamos alcanzar un número mínimo, por ejemplo, realizar encuestas hasta que lleguemos al número de cien encuestados. 
+Los **bucles**  indican que una tarea se puede sostener o repetir varias veces _hasta que_ llegue a un punto que queremos lograr. Ya sea porque la repetición de un mismo proceso alcanzará el resultado, por ejemplo al [coser un botón](https://drive.google.com/file/d/1PCiON1SI9AH-Q8KmD-jemfq1v0UhiILv/view) pasamos la aguja por los agujeros varias veces hasta que se encuentre firme, o porque necesitamos alcanzar un número mínimo, por ejemplo, realizar encuestas hasta que lleguemos al número de cien encuestados. 
 
 
 Por último, **el diagrama de flujo** es una forma gráfica para representar un algoritmo. Con cuadros y flechas se pueden observar las acciones y el recorrido de un proceso desde que inicia hasta que cierra. En este tipo de diagrama también pueden observarse los bucles y los operadores lógicos que detallamos anteriormente.
