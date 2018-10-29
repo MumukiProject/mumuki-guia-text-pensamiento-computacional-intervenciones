@@ -1,4 +1,4 @@
-Es momento de dar otro salto creativo que llevará a nuestra formación a otra etapa. Acá les dejamos otro gif inspirador:
+Es momento de dar otro salto creativo que llevará a tu formación a otra etapa. Acá les dejamos otro gif inspirador:
 
 <img src="https://user-images.githubusercontent.com/1039278/47478018-48551280-d7fe-11e8-8452-3e45c042fa24.gif" alt="GIF MARIO BROS" width="auto" height="auto">
 
