@@ -12,4 +12,4 @@ Pueden presentar las siguientes características:
 
 Los algoritmos pueden utilizarse o no para programación. De acuerdo a nuestros objetivos de enseñanza adoptaremos un criterio más o menos flexible en torno a la construcción de los algoritmos y su estructura.
 
-¿Te quedaste con ganas de leer más al respecto? :eyes: Podés hacerlo [acá](https://drive.google.com/file/d/1PCiON1SI9AH-Q8KmD-jemfq1v0UhiILv/view).
+¿Algún ejemplo? Sí, claro, [acá](https://drive.google.com/file/d/1PCiON1SI9AH-Q8KmD-jemfq1v0UhiILv/view) :eyes:.
