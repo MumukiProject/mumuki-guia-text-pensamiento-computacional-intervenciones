@@ -1,0 +1,1 @@
+Ya descompusiste tu problema e identificaste patrones y abstracciones :clap:. A continuación trabajaremos en la generación de los algoritmos.
