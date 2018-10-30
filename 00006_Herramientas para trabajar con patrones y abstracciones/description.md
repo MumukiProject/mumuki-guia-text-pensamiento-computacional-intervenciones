@@ -83,7 +83,7 @@ La búsqueda de patrones y abstracciones es un mecanismo tan ligado a nuestras p
     </div>
     <div id="collapseSix" class="panel-collapse collapse">
       <div class="panel-body">
-        <ul><p>a estadística descriptiva muchas veces nos permitirá tomar decisiones y analizar los elementos analizados. A través de distintas operaciones podremos obtener información que puede resultar muy útil. Mencionaremos algunos conceptos estadísticos básicos que podrán ser de utilidad:</p>
+        <ul><p>La estadística descriptiva muchas veces nos permitirá tomar decisiones y analizar los elementos analizados. A través de distintas operaciones podremos obtener información que puede resultar muy útil. Mencionaremos algunos conceptos estadísticos básicos que podrán ser de utilidad:</p>
         
         <li><p>Promedio: es un número que busca representar a todo el conjunto.</p></li>
 
