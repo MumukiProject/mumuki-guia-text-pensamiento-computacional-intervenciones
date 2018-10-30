@@ -51,11 +51,11 @@ La búsqueda de patrones y abstracciones es un mecanismo tan ligado a nuestras p
   
   <div class="panel panel-default" style="width: 100%;">
     <div class="panel-heading">
-      <a data-toggle="collapse" data-parent="#accordion" href="#collapseTwo">
+      <a data-toggle="collapse" data-parent="#accordion" href="#collapseFour">
         Diagrama de venn
       </a>
     </div>
-    <div id="collapseTwo" class="panel-collapse collapse">
+    <div id="collapseFour" class="panel-collapse collapse">
       <div class="panel-body">
         <p>Permitirá organizar la información filtrando y seleccionando sólo las que compartan ciertas cosas en común. Es habitual utilizarlos para analizar los elementos que forman parte de dos o tres conjuntos a la vez. Por ejemplo, qué soluciones afectan positivamente la esfera social, ambiental y económica de un pueblo.</p>
       </div>
@@ -64,11 +64,11 @@ La búsqueda de patrones y abstracciones es un mecanismo tan ligado a nuestras p
 
   <div class="panel panel-default" style="width: 100%;">
     <div class="panel-heading">
-      <a data-toggle="collapse" data-parent="#accordion" href="#collapseTwo">
+      <a data-toggle="collapse" data-parent="#accordion" href="#collapseFive">
         Creación de tablas
       </a>
     </div>
-    <div id="collapseTwo" class="panel-collapse collapse">
+    <div id="collapseFive" class="panel-collapse collapse">
       <div class="panel-body">
         <p>¿Dónde volcaremos la información de cada una de las partes del problema que descompusimos? Una tabla de doble entrada es una posibilidad. Podemos armar una estructura de títulos y variables. La información que se vuelque en cada categoría puede ser cerrada o abierta. Las preguntas abiertas tienen la ventaja de que se pueden responder con información mucho más variada y compleja, sin embargo tienen la dificultad de que son muy difíciles de procesar. Por el contrario las preguntas cerradas facilitan mucho el proceso de comparación y análisis pero tienen la dificultad de que a veces la respuesta no encajará del todo con las categorías preestablecidas.</p>
       </div>
@@ -77,11 +77,11 @@ La búsqueda de patrones y abstracciones es un mecanismo tan ligado a nuestras p
   
   <div class="panel panel-default" style="width: 100%;">
     <div class="panel-heading">
-      <a data-toggle="collapse" data-parent="#accordion" href="#collapseTwo">
+      <a data-toggle="collapse" data-parent="#accordion" href="#collapseSix">
         Análisis estadísticos
       </a>
     </div>
-    <div id="collapseTwo" class="panel-collapse collapse">
+    <div id="collapseSix" class="panel-collapse collapse">
       <div class="panel-body">
         <ul><p>a estadística descriptiva muchas veces nos permitirá tomar decisiones y analizar los elementos analizados. A través de distintas operaciones podremos obtener información que puede resultar muy útil. Mencionaremos algunos conceptos estadísticos básicos que podrán ser de utilidad:</p>
         
