@@ -28,13 +28,13 @@ Nuevamente en esta sección compartiremos algunas herramientas o disparadores pa
         <li><p><em>múltiple</em>: se trata de armar una cadena de condicionales dobles. Si la condición es verdadera sucede una cosa. Si es falsa, da inicio a un nuevo condicional en el que analiza otra condición y según ésta sea verdadera o falsa realiza determinadas acciones.</p></li>
         </ul>
 
-        <p>¿No quedó claro? Mirá un ejemplo de condicional simple:</p>
+        <p>¿No quedó claro? Mirá un ejemplo de <strong>condicional simple</strong>:</p>
 
         <p><strong>Si</strong> el <em>agua está hervida</em> (condición 1)
         <strong>entonces</strong>, la uso para hacerme un té.
         <strong>Si no</strong>, la dejo más tiempo en el fuego.</p>
 
-        <p>Acá va otro de condicional múltiple:</p>
+        <p>Acá va otro de <strong>condicional múltiple</strong>:</p>
 
         <p><strong>Si</strong> el <em>agua está hervida</em> (condición 1)
         <strong>entonces</strong> la uso para hacerme un té.
