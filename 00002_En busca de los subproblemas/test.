@@ -1,2 +1,4 @@
 - name: Se respondieron las preguntas
-  keys: {}
+  keys:
+    estrategias:
+      match: .*
