@@ -1,4 +1,4 @@
-- name: Se completó la consigna, criterios e instrumentos
+- name: Se respondieron las preguntas
   keys:
-    consigna_criterios_instrumentos:
+    estrategias:
       match: .*
