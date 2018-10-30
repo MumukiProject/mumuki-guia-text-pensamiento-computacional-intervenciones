@@ -89,7 +89,7 @@ La búsqueda de patrones y abstracciones es un mecanismo tan ligado a nuestras p
 
         <li><p>Mediana: de un conjunto ordenado de elementos, la mediana representa el valor de la variable que está en la posición central.</p></li>
         
-        <li><p>Moda:es el valor que más se repite dentro del conjunto de los elementos.</p></li>
+        <li><p>Moda: es el valor que más se repite dentro del conjunto de los elementos.</p></li>
         </ul>
       </div>
     </div>
