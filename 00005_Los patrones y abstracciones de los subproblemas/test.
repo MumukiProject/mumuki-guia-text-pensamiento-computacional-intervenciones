@@ -1,0 +1,4 @@
+- name: Se respondieron las preguntas
+  keys:
+    subproblemas:
+      match: .*

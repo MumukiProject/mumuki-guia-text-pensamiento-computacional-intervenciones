@@ -4,6 +4,6 @@ layout: input_bottom
 editor: free_form
 type: problem
 extra_visible: false
-manual_evaluation: false
+manual_evaluation: true
 choices: []
-name: Los patrones y abstracciones de los subproblemas
+name: "¿Cómo venimos hasta acá?"
