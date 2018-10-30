@@ -9,8 +9,8 @@ Nuevamente les dejamos un gif inspirador en el que quizás puedas identificar lo
 
 Volviendo a la planificación:
 
-* ¿Qué actividad/es propondrás a l@s estudiantes para generar los algoritmos?
-* ¿Por qué elegiste esa actividad y cuáles son tus resultados esperados?
-* ¿Necesitás algún recurso especial?
+* ¿qué actividad/es propondrás a l@s estudiantes para generar los algoritmos?
+* ¿por qué elegiste esa actividad y cuáles son tus resultados esperados?
+* ¿necesitás algún recurso especial?
 
 > Respondé esas preguntas en los siguientes campos.
