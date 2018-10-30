@@ -76,7 +76,7 @@ Nuevamente en esta sección compartiremos algunas herramientas o disparadores pa
     </div>
     <div id="collapseFour" class="panel-collapse collapse">
       <div class="panel-body">
-        <p>Los bucles indican que una tarea se puede sostener o repetir varias veces <em>hasta que</em> llegue a un punto que queremos lograr. Ya sea porque la repetición de un mismo proceso alcanzará el resultado, por ejemplo al <a target="_blank" href="https://drive.google.com/file/d/1PCiON1SI9AH-Q8KmD-jemfq1v0UhiILv/view">coser un botón</a> pasamos la aguja por los agujeros varias veces hasta que se encuentre firme, o porque necesitamos alcanzar un número mínimo, por ejemplo, realizar encuestas hasta que lleguemos al número de cien encuestados.</p>
+        <p>Los bucles indican que una tarea se puede sostener o repetir varias veces <em>hasta que</em> llegue a un punto que queremos lograr. Ya sea porque la repetición de un mismo proceso alcanzará el resultado, por ejemplo al <a target="_blank" href="https://drive.google.com/open?id=1PCiON1SI9AH-Q8KmD-jemfq1v0UhiILv">coser un botón</a> pasamos la aguja por los agujeros varias veces hasta que se encuentre firme, o porque necesitamos alcanzar un número mínimo, por ejemplo, realizar encuestas hasta que lleguemos al número de cien encuestados.</p>
       </div>
     </div>
   </div>
