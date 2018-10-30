@@ -22,11 +22,10 @@ Nuevamente en esta sección compartiremos algunas herramientas o disparadores pa
     </div>
     <div id="collapseTwo" class="panel-collapse collapse">
       <div class="panel-body">
-        <p>La estructura condicional nos sirve para realizar acciones cuando se cumple una determinada pauta. Adopta un criterio binario en que la condición es verdadera o es falsa. De acuerdo a este análisis realiza una determinada acción.</p>
-        <ul><p>Hay diferentes tipos de condicional:</p>
-
-        <li><p>Simple: si la condición es verdadera sucede una cosa, si la condición es falsa sucede otra.</p></li>
-        <li><p>Múltiple: se trata de armar una cadena de condicionales dobles. Si la condición es verdadera sucede una cosa. Si es falsa, da inicio a un nuevo condicional en el que analiza otra condición y según ésta sea verdadera o falsa realiza determinadas acciones.</p></li>
+        <p>La estructura condicional nos sirve para realizar acciones cuando se cumple una determinada pauta. Adopta un criterio binario en que la condición es verdadera o es falsa. De acuerdo a este análisis realiza una determinada acción. >Hay diferentes tipos de condicional:</p>
+        <ul>
+        <li><p><em>simple</em>: si la condición es verdadera sucede una cosa, si la condición es falsa sucede otra.</p></li>
+        <li><p><em>múltiple</em>: se trata de armar una cadena de condicionales dobles. Si la condición es verdadera sucede una cosa. Si es falsa, da inicio a un nuevo condicional en el que analiza otra condición y según ésta sea verdadera o falsa realiza determinadas acciones.</p></li>
         </ul>
 
         <p>¿No quedó claro? Mirá un ejemplo de condicional simple:</p>
