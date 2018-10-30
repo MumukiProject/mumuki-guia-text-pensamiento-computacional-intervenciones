@@ -4,6 +4,6 @@ layout: input_bottom
 editor: free_form
 type: problem
 extra_visible: false
-manual_evaluation: true
+manual_evaluation: false
 choices: []
 name: Solucionando problemas con algoritmos
