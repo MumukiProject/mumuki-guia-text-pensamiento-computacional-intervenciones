@@ -89,7 +89,7 @@ Nuevamente en esta sección compartiremos algunas herramientas o disparadores pa
     </div>
     <div id="collapseFive" class="panel-collapse collapse">
       <div class="panel-body">
-        <p>**el diagrama de flujo** es una forma gráfica para representar un algoritmo. Con cuadros y flechas se pueden observar las acciones y el recorrido de un proceso desde que inicia hasta que cierra. En este tipo de diagrama también pueden observarse los bucles y los operadores lógicos que detallamos anteriormente. Si querés saber más de ello, te dejamos el link directo a <a target="_blank" href="https://es.wikipedia.org/wiki/Diagrama_de_flujo">wikipedia</a></p>
+        <p>El diagrama de flujo es una forma gráfica para representar un algoritmo. Con cuadros y flechas se pueden observar las acciones y el recorrido de un proceso desde que inicia hasta que cierra. En este tipo de diagrama también pueden observarse los bucles y los operadores lógicos que detallamos anteriormente. Si querés saber más de ello, te dejamos el link directo a <a target="_blank" href="https://es.wikipedia.org/wiki/Diagrama_de_flujo">wikipedia</a></p>
       </div>
     </div>
   </div>  
