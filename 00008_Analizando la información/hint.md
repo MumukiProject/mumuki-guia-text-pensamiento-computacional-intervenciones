@@ -1,4 +1,7 @@
-Volvamos al ejemplo que mencionamos antes: ¿Cómo diseñarían un objeto útil reutilizando o reciclando los residuos que quedan después de un recital? Supongamos que en proceso de descomposición identificamos tres subproblemas: ¿qué materiales voy a usar? ¿qué tipo de objeto será? ¿cómo lo voy a construir?. Posteriormente realizo un trabajo de patrones, analizo la información más relevante y genero una abstracción de cada subproblema que me permita avanzar en la búsqueda de la solución. Posiblemente la información me pueda llevar a algo así:
-Subproblema: ¿Qué materiales voy a usar? Abstracción: El mejor material es el plástico del tipo PET (son frecuentes de encontrar y son reciclables). 
-Subproblema: ¿Qué tipo de objeto será? Abstracción: Reproducciones de  esculturas de artistas latinoamericanos (cada vez hay más vínculo entre el mundo del arte y el reciclado). 
-Subproblema: ¿Cómo los voy a construir? Abstracción: Con moldes de impresión 3d (se pueden crear moldes y utilizar el plástico fundido).
+Volvamos al ejemplo que mencionamos antes: ¿cómo se diseñaría un objeto útil reutilizando o reciclando los residuos que quedan después de un recital? Supongamos que en proceso de descomposición identificamos tres subproblemas: ¿qué materiales se van a usar? ¿qué tipo de objeto será? ¿cómo se va a construir?. 
+
+Posteriormente se realiza un trabajo de patrones, se analiza la información más relevante y se genera una abstracción de cada subproblema que permita avanzar en la búsqueda de la solución. Posiblemente la información pueda llevar a algo así:
+
+* subproblema: ¿qué materiales voy a usar? Abstracción: el mejor material es el plástico del tipo PET (son frecuentes de encontrar y son reciclables). 
+* Subproblema: ¿qué tipo de objeto será? Abstracción: reproducciones de  esculturas de artistas latinoamericanos (cada vez hay más vínculo entre el mundo del arte y el reciclado). 
+*Subproblema: ¿cómo los voy a construir? Abstracción: con moldes de impresión 3d (se pueden crear moldes y utilizar el plástico fundido).
