@@ -56,10 +56,10 @@ Nuevamente en esta sección compartiremos algunas herramientas o disparadores pa
       <div class="panel-body">
         <p>Los operadores lógicos nos dan una resultado a partir de que se cumpla o no una condición. Vamos a presentar dos operadores lógicos: <em>Y (AND)</em> y <em>O (OR)</em>. La condición <em>AND</em> realizará una acción cuando se cumplen dos condiciones. La condición <em>OR</em> realizará una acción cuando se cumple al menos una de las dos condiciones.</p>
 
-        <p>Por ejemplo, supongamos que sos una persona a la que no le gusta ni la lluvia ni el frío. Es por esto que si tenés un compromiso tu asistencia dependerá del clima.  Si el clima está feo, te vas a abrigar <strong>o</strong> te vas a poner un piloto, según el caso, y vas a ir de mala gana. Pero si llueve <strong>y</strong> además hace frío, te vas a quedar en tu casa leyendo un libro. Acá podríamos pensarlo desde estos operadores lógicos:</p>
+        <p>Por ejemplo, supongamos que Ale es una persona a la que no le gusta ni la lluvia ni el frío. Es por esto que si tiene un compromiso, su asistencia dependerá del clima.  Si el clima está feo, se va a abrigar <strong>o</strong> a poner un piloto, según el caso, y va a ir de mala gana. Pero si llueve <strong>y</strong> además hace frío, se va a quedar en su casa leyendo un libro. Acá podríamos pensarlo desde estos operadores lógicos:</p>
         <ul>
-        <li><p>O (OR): Si llueve O hace frío, entonces vas sin ganas.</p></li>
-        <li><p>Y (AND): Si llueve Y hace frío, entonces no vas.</p></li>
+        <li><p>O (OR): Si llueve O hace frío, entonces Ale va sin ganas.</p></li>
+        <li><p>Y (AND): Si llueve Y hace frío, entonces Ale no va.</p></li>
         </ul>
       </div>
     </div>
