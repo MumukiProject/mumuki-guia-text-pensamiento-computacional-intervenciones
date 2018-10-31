@@ -40,7 +40,7 @@
     </div>
     <div id="collapseThree" class="panel-collapse collapse">
       <div class="panel-body">
-        <p>Se puede trazar un <em>eje cartesiano</em> en donde fijaremos dos variables que consideramos muy importantes para el análisis de nuestros subproblemas. Una estará en el eje x, hacia la derecha subirá y hacia la izquierda decrecerá. La otra variable estará en el eje y, aumentará el valor de su variable hacia arriba y disminuirá hacia abajo.</p>
+        <p>Se puede trazar un <em>eje cartesiano</em> en donde fijaremos dos variables que consideramos muy importantes para el análisis de nuestros subproblemas. Una estará en el <em>eje x</em>, hacia la derecha subirá y hacia la izquierda decrecerá. La otra variable estará en el <em>eje y</em>, aumentará el valor de su variable hacia arriba y disminuirá hacia abajo.</p>
 
         <p>Se puede aplicar para variables continuas como ser costo, impacto, etc., que tienen datos precisos y fáciles de ordenar. No obstante, también nos puede servir para analizar categorías que, aunque continuas, sean un tanto más difusas, por ejemplo, innovación, creatividad, etc.</p>
 
