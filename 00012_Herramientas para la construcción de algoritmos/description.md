@@ -22,7 +22,7 @@ Nuevamente en esta sección compartiremos algunas herramientas o disparadores pa
     </div>
     <div id="collapseTwo" class="panel-collapse collapse">
       <div class="panel-body">
-        <p>La estructura condicional nos sirve para realizar acciones cuando se cumple una determinada pauta. Adopta un criterio binario en que la condición es verdadera o es falsa. De acuerdo a este análisis realiza una determinada acción. Hay diferentes tipos de condicional:</p>
+        <p>La <em>estructura condicional</em> nos sirve para realizar acciones cuando se cumple una determinada pauta. Adopta un criterio binario en que la condición es verdadera o es falsa. De acuerdo a este análisis realiza una determinada acción. Hay diferentes tipos de condicional:</p>
         <ul>
         <li><p><em>simple</em>: si la condición es verdadera sucede una cosa, si la condición es falsa sucede otra;</p></li>
         <li><p><em>múltiple</em>: se trata de armar una cadena de condicionales dobles. Si la condición es verdadera sucede una cosa. Si es falsa, da inicio a un nuevo condicional en el que analiza otra condición y según ésta sea verdadera o falsa realiza determinadas acciones.</p></li>
@@ -54,7 +54,7 @@ Nuevamente en esta sección compartiremos algunas herramientas o disparadores pa
     </div>
     <div id="collapseThree" class="panel-collapse collapse">
       <div class="panel-body">
-        <p>Los operadores lógicos nos dan una resultado a partir de que se cumpla o no una condición. Vamos a presentar dos operadores lógicos: <em>Y (AND)</em> y <em>O (OR)</em>. La condición <em>AND</em> realizará una acción cuando se cumplen dos condiciones. La condición <em>OR</em> realizará una acción cuando se cumple al menos una de las dos condiciones.</p>
+        <p>Los <em>operadores lógicos</em> nos dan una resultado a partir de que se cumpla o no una condición. Vamos a presentar dos operadores lógicos: <em>Y (AND)</em> y <em>O (OR)</em>. La condición <em>AND</em> realizará una acción cuando se cumplen dos condiciones. La condición <em>OR</em> realizará una acción cuando se cumple al menos una de las dos condiciones.</p>
 
         <p>Por ejemplo, supongamos que Ale es una persona a la que no le gusta ni la lluvia ni el frío. Es por esto que si tiene un compromiso, su asistencia dependerá del clima.  Si el clima está feo, se va a abrigar <strong>o</strong> a poner un piloto, según el caso, y va a ir de mala gana. Pero si llueve <strong>y</strong> además hace frío, se va a quedar en su casa leyendo un libro. Acá podríamos pensarlo desde estos operadores lógicos:</p>
         <ul>
@@ -73,7 +73,7 @@ Nuevamente en esta sección compartiremos algunas herramientas o disparadores pa
     </div>
     <div id="collapseFour" class="panel-collapse collapse">
       <div class="panel-body">
-        <p>Los bucles indican que una tarea se puede sostener o repetir varias veces <em>hasta que</em> llegue a un punto que queremos lograr. Ya sea porque la repetición de un mismo proceso alcanzará el resultado, por ejemplo al <a target="_blank" href="https://drive.google.com/open?id=1PCiON1SI9AH-Q8KmD-jemfq1v0UhiILv">coser un botón</a> pasamos la aguja por los agujeros varias veces hasta que se encuentre firme, o porque necesitamos alcanzar un número mínimo, por ejemplo, realizar encuestas hasta que lleguemos al número de cien encuestados.</p>
+        <p>Los <em>bucles</em> indican que una tarea se puede sostener o repetir varias veces <em>hasta que</em> llegue a un punto que queremos lograr. Ya sea porque la repetición de un mismo proceso alcanzará el resultado, por ejemplo al <a target="_blank" href="https://drive.google.com/open?id=1PCiON1SI9AH-Q8KmD-jemfq1v0UhiILv">coser un botón</a> pasamos la aguja por los agujeros varias veces hasta que se encuentre firme, o porque necesitamos alcanzar un número mínimo, por ejemplo, realizar encuestas hasta que lleguemos al número de cien encuestados.</p>
       </div>
     </div>
   </div>
@@ -86,7 +86,7 @@ Nuevamente en esta sección compartiremos algunas herramientas o disparadores pa
     </div>
     <div id="collapseFive" class="panel-collapse collapse">
       <div class="panel-body">
-        <p>El diagrama de flujo es una forma gráfica para representar un algoritmo. Con cuadros y flechas se pueden observar las acciones y el recorrido de un proceso desde que inicia hasta que cierra. En este tipo de diagrama también pueden observarse los bucles y los operadores lógicos que detallamos anteriormente. Si querés saber más de ello, te dejamos el link directo a <a target="_blank" href="https://es.wikipedia.org/wiki/Diagrama_de_flujo">wikipedia</a>.</p>
+        <p>El <em>diagrama de flujo</em> es una forma gráfica para representar un algoritmo. Con cuadros y flechas se pueden observar las acciones y el recorrido de un proceso desde que inicia hasta que cierra. En este tipo de diagrama también pueden observarse los bucles y los operadores lógicos que detallamos anteriormente. Si querés saber más de ello, te dejamos el link directo a <a target="_blank" href="https://es.wikipedia.org/wiki/Diagrama_de_flujo">wikipedia</a>.</p>
       </div>
     </div>
   </div>  
