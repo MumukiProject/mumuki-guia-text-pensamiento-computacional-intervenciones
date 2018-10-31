@@ -9,7 +9,7 @@ Nuevamente en esta sección compartiremos algunas herramientas o disparadores pa
     </div>
     <div id="collapseOne" class="panel-collapse collapse">
       <div class="panel-body">
-        <p>Cuando pensemos en el diseño del algoritmo tendremos que tener en cuenta que partimos de un estado inicial y necesitamos llegar a un estado final. Para resolver un problema o subproblema podemos elaborar una serie de pasos donde cada uno tiene un momento de inicio, se realizan ciertas cosas y luego llega a su fin. Dentro de cada paso también podemos tener otras tareas de menor escala que se inician o terminan, sin embargo la atención aquí la vamos a tener que enfocar en que son procesos que se abren, cumplen un proceso y finalizan.</p>
+        <p>Cuando pensemos en el diseño del algoritmo es necesario tener en cuenta que partimos de un estado inicial y necesitamos llegar a un estado final. Para resolver un problema o subproblema podemos elaborar una serie de pasos donde cada uno tiene un momento de inicio, se realizan ciertas cosas y luego llega a su fin. Dentro de cada paso también podemos tener otras tareas de menor escala que se inician o terminan, sin embargo la atención aquí la vamos a tener que enfocar en que son procesos que se abren, cumplen un proceso y finalizan.</p>
       </div>
     </div>
   </div>
