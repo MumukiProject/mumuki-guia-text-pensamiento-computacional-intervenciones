@@ -70,7 +70,7 @@
     </div>
     <div id="collapseFive" class="panel-collapse collapse">
       <div class="panel-body">
-        <p>¿Dónde volcaremos la información de cada una de las partes del problema que descompusimos? Una <em>tabla de doble entrada</em> es una posibilidad. Podemos armar una estructura de títulos y variables. La información que se vuelque en cada categoría puede ser cerrada o abierta. Las preguntas abiertas tienen la ventaja de que se pueden responder con información mucho más variada y compleja, sin embargo tienen la dificultad de que son muy difíciles de procesar. Por el contrario las preguntas cerradas facilitan mucho el proceso de comparación y análisis pero tienen la dificultad de que a veces la respuesta no encajará del todo con las categorías preestablecidas.</p>
+        <p>¿Dónde volcaremos la información de cada una de las partes del problema que descompusimos? Una <em>tabla de doble entrada</em> es una posibilidad. Podemos armar una estructura de títulos y variables. La información que se vuelque en cada categoría puede ser cerrada o abierta. Las <em>preguntas abiertas</em> tienen la ventaja de que se pueden responder con información mucho más variada y compleja, sin embargo tienen la dificultad de que son muy difíciles de procesar. Por el contrario las <em>preguntas cerradas</em> facilitan mucho el proceso de comparación y análisis pero tienen la dificultad de que a veces la respuesta no encajará del todo con las categorías preestablecidas.</p>
       </div>
     </div>
   </div>  
