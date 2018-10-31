@@ -57,7 +57,7 @@
     </div>
     <div id="collapseFour" class="panel-collapse collapse">
       <div class="panel-body">
-        <p>Un <em>diagrama de Venn</em> permitirá organizar la información filtrando y seleccionando sólo las que compartan ciertas cosas en común. Es habitual utilizarlos para analizar los elementos que forman parte de dos o tres conjuntos a la vez. Por ejemplo, qué  psoluciones afectan positivamente la esfera social, ambiental y económica de un pueblo.</p>
+        <p>Un <em>diagrama de Venn</em> permite organizar la información filtrando y seleccionando sólo las que compartan ciertas cosas en común. Es habitual utilizarlos para analizar los elementos que forman parte de dos o tres conjuntos a la vez. Por ejemplo, qué soluciones afectan positivamente la esfera social, ambiental y económica de un pueblo.</p>
       </div>
     </div>
   </div>
