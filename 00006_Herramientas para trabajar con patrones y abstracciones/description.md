@@ -85,9 +85,9 @@
       <div class="panel-body">
         <ul><p>La <em>estadística descriptiva</em> muchas veces nos permitirá tomar decisiones y analizar los elementos analizados. A través de distintas operaciones podremos obtener información que puede resultar muy útil. Mencionaremos algunos conceptos estadísticos básicos que podrán ser de utilidad:</p>
         
-        <li><p><em>promedio</em>: es un número que busca representar a todo el conjunto.</p></li>
+        <li><p><em>promedio</em>: es un número que busca representar a todo el conjunto;</p></li>
 
-        <li><p><em>mediana</em>: de un conjunto ordenado de elementos, la mediana representa el valor de la variable que está en la posición central.</p></li>
+        <li><p><em>mediana</em>: de un conjunto ordenado de elementos, la mediana representa el valor de la variable que está en la posición central;</p></li>
         
         <li><p><em>moda</em>:es el valor que más se repite dentro del conjunto de los elementos.</p></li>
         </ul>
