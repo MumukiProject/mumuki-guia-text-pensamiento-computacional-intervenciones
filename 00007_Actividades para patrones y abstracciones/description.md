@@ -1,4 +1,4 @@
-El objetivo aquí será analizar cada subproblema por separado e identificar cómo se resolvieron en situaciones similares cada uno de ellos, de este modo vas a estar en mejores condiciones de crear una solución para tu problema específico adaptada a las necesidades, intereses y posibilidades del grupo de estudiantes con el que estés trabajando.
+El objetivo acá es analizar cada subproblema por separado e identificar cómo se resolvieron en situaciones similares cada uno de ellos, de este modo vas a estar en mejores condiciones de crear una solución para tu problema específico adaptada a las necesidades, intereses y posibilidades del grupo de estudiantes con el que estés trabajando.
 
 Te proponemos éstas preguntas:
 
