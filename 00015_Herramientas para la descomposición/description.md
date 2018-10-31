@@ -1,4 +1,4 @@
-Ya estuvimos analizando durante el pasaje de la temática a la _pregunta problema_ algunas herramientas de descomposición como 5W, árbol del problema o características globales/locales. 
+Ya estuvimos analizando durante el pasaje de la temática a la _pregunta problema_ algunas [herramientas de descomposición](https://mumuki.io/tec.la/exercises/5899) como 5W, árbol del problema o características globales/locales. 
 ¡Pero hay más y te las vamos a presentar ahora! :wink:
 
 <div class="panel-group" id="accordion">
