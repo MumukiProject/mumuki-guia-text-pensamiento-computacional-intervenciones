@@ -25,7 +25,7 @@
         Conjuntos de Post-it 
       </a>
     </div>
-    <div id="collapseTwo" class="panel-collapse collapse">
+    <div id="collapseTwo" class="in panel-collapse collapse">
       <div class="panel-body">
         <p>Es útil para una instancia de carácter más exploratorio. Se solicitará que se escriban todas las soluciones posibles a los subproblemas identificados en <em>post-it</em>, sugiriendo que no se utilicen más de tres palabras para facilitar las comparaciones posteriores. Los post-it luego se pegan en las paredes y colectivamente se van construyendo familias (conjuntos) de post-it agrupados identificando puntos en común, aspectos positivos o negativos de cada conjunto, soluciones que encajan en muchos conjuntos volviéndose más genéricas o soluciones más específicas, y otros elementos que puedan emerger del análisis que luego permita encontrar patrones en común.</p>
       </div>
@@ -38,7 +38,7 @@
         Ejes de coordenadas
       </a>
     </div>
-    <div id="collapseThree" class="panel-collapse collapse">
+    <div id="collapseThree" class="in panel-collapse collapse">
       <div class="panel-body">
         <p>Se puede trazar un <em>eje cartesiano</em> en donde fijaremos dos variables que consideramos muy importantes para el análisis de nuestros subproblemas. Una estará en el <em>eje x</em>, hacia la derecha subirá y hacia la izquierda decrecerá. La otra variable estará en el <em>eje y</em>, aumentará el valor de su variable hacia arriba y disminuirá hacia abajo.</p>
 
@@ -55,7 +55,7 @@
         Diagrama de Venn
       </a>
     </div>
-    <div id="collapseFour" class="panel-collapse collapse">
+    <div id="collapseFour" class="in panel-collapse collapse">
       <div class="panel-body">
         <p>Un <em>diagrama de Venn</em> permite organizar la información filtrando y seleccionando sólo las que compartan ciertas cosas en común. Es habitual utilizarlos para analizar los elementos que forman parte de dos o tres conjuntos a la vez. Por ejemplo, qué soluciones afectan positivamente la esfera social, ambiental y económica de un pueblo.</p>
       </div>
@@ -68,7 +68,7 @@
         Creación de tablas
       </a>
     </div>
-    <div id="collapseFive" class="panel-collapse collapse">
+    <div id="collapseFive" class="in panel-collapse collapse">
       <div class="panel-body">
         <p>¿Dónde volcaremos la información de cada una de las partes del problema que descompusimos? Una <em>tabla de doble entrada</em> es una posibilidad. Podemos armar una estructura de títulos y variables. La información que se vuelque en cada categoría puede ser cerrada o abierta. Las <em>preguntas abiertas</em> tienen la ventaja de que se pueden responder con información mucho más variada y compleja, sin embargo tienen la dificultad de que son muy difíciles de procesar. Por el contrario las <em>preguntas cerradas</em> facilitan mucho el proceso de comparación y análisis pero tienen la dificultad de que a veces la respuesta no encajará del todo con las categorías preestablecidas.</p>
       </div>
@@ -81,7 +81,7 @@
         Análisis estadísticos
       </a>
     </div>
-    <div id="collapseSix" class="panel-collapse collapse">
+    <div id="collapseSix" class="in panel-collapse collapse">
       <div class="panel-body">
         <ul><p>La <em>estadística descriptiva</em> muchas veces nos permitirá tomar decisiones y analizar los elementos analizados. A través de distintas operaciones podremos obtener información que puede resultar muy útil. Mencionaremos algunos conceptos estadísticos básicos que podrán ser de utilidad:</p>
         
