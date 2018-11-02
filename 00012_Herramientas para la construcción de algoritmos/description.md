@@ -7,7 +7,7 @@ Nuevamente en esta sección compartiremos algunas herramientas o disparadores pa
         Procesos que abren y cierran
       </a>
     </div>
-    <div id="collapseOne" class="panel-collapse collapse">
+    <div id="collapseOne" class="in panel-collapse collapse">
       <div class="panel-body">
         <p>Cuando pensemos en el diseño del algoritmo es necesario tener en cuenta que partimos de un estado inicial y necesitamos llegar a un estado final. Para resolver un problema o subproblema podemos elaborar una serie de pasos donde cada uno tiene un momento de inicio, se realizan ciertas cosas y luego llega a su fin. Dentro de cada paso también podemos tener otras tareas de menor escala que se inician o terminan, sin embargo la atención aquí la vamos a tener que enfocar en que son procesos que se abren, cumplen un proceso y finalizan.</p>
       </div>
@@ -20,7 +20,7 @@ Nuevamente en esta sección compartiremos algunas herramientas o disparadores pa
         Condicionales
       </a>
     </div>
-    <div id="collapseTwo" class="panel-collapse collapse">
+    <div id="collapseTwo" class="in panel-collapse collapse">
       <div class="panel-body">
         <p>La <em>estructura condicional</em> nos sirve para realizar acciones cuando se cumple una determinada pauta. Adopta un criterio binario en que la condición es verdadera o es falsa. De acuerdo a este análisis realiza una determinada acción. Hay diferentes tipos de condicional:</p>
         <ul>
@@ -52,7 +52,7 @@ Nuevamente en esta sección compartiremos algunas herramientas o disparadores pa
         Operadores lógicos
       </a>
     </div>
-    <div id="collapseThree" class="panel-collapse collapse">
+    <div id="collapseThree" class="in panel-collapse collapse">
       <div class="panel-body">
         <p>Los <em>operadores lógicos</em> nos dan una resultado a partir de que se cumpla o no una condición. Vamos a presentar dos operadores lógicos: <em>Y (AND)</em> y <em>O (OR)</em>. La condición <em>AND</em> realizará una acción cuando se cumplen dos condiciones. La condición <em>OR</em> realizará una acción cuando se cumple al menos una de las dos condiciones.</p>
 
@@ -71,7 +71,7 @@ Nuevamente en esta sección compartiremos algunas herramientas o disparadores pa
         Bucles
       </a>
     </div>
-    <div id="collapseFour" class="panel-collapse collapse">
+    <div id="collapseFour" class="in panel-collapse collapse">
       <div class="panel-body">
         <p>Los <em>bucles</em> indican que una tarea se puede sostener o repetir varias veces <em>hasta que</em> llegue a un punto que queremos lograr. Ya sea porque la repetición de un mismo proceso alcanzará el resultado, por ejemplo al <a target="_blank" href="https://drive.google.com/open?id=1PCiON1SI9AH-Q8KmD-jemfq1v0UhiILv">coser un botón</a> pasamos la aguja por los agujeros varias veces hasta que se encuentre firme, o porque necesitamos alcanzar un número mínimo, por ejemplo, realizar encuestas hasta que lleguemos al número de cien encuestados.</p>
       </div>
@@ -84,7 +84,7 @@ Nuevamente en esta sección compartiremos algunas herramientas o disparadores pa
         Diagrama de flujo
       </a>
     </div>
-    <div id="collapseFive" class="panel-collapse collapse">
+    <div id="collapseFive" class="in panel-collapse collapse">
       <div class="panel-body">
         <p>El <em>diagrama de flujo</em> es una forma gráfica para representar un algoritmo. Con cuadros y flechas se pueden observar las acciones y el recorrido de un proceso desde que inicia hasta que cierra. En este tipo de diagrama también pueden observarse los bucles y los operadores lógicos que detallamos anteriormente. Si querés saber más de ello, te dejamos el link directo a <a target="_blank" href="https://es.wikipedia.org/wiki/Diagrama_de_flujo">wikipedia</a>.</p>
       </div>
