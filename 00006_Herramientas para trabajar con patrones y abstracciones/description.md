@@ -1,4 +1,4 @@
- La búsqueda de patrones y abstracciones es un mecanismo tan ligado a nuestras prácticas cotidianas que resulta difícil identificar qué procesos entran en juego cada vez que lo realizamos. Sin pretensiones de ser exhaustivos en esta lista, a continuación te proponemos algunas herramientas que pueden resultar útiles para _identificar patrones_ y _generar abstracciones_.
+La búsqueda de patrones y la generación de abstracciones es un mecanismo tan ligado a nuestras prácticas cotidianas que resulta difícil identificar qué procesos entran en juego cada vez que lo realizamos. Sin pretensiones de ser exhaustivos en esta lista, a continuación te proponemos algunas herramientas que pueden resultar útiles para _identificar patrones_ y _generar abstracciones_.
 
 <div class="panel-group" id="accordion">
   <div class="panel panel-default" style="width: 100%;">
